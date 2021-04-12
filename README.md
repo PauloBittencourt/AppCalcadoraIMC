@@ -1,4 +1,4 @@
-# Aplicativo para Conversor de Moedas
+# Aplicativo Calculadora de IMC
 
 ## Introdução
 
