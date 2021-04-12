@@ -4,7 +4,7 @@
 
 Novo aplicativo feito em Flutter
 
-Seja bem vindo ao meu Aplicativo para Calcular seu Indice de Massa Corporal. 
+Seja bem vindo ao meu aplicativo para calcular seu Indice de Massa Corporal. 
 
 Calculos feitos com base geral em sua altura e peso, para assim achar o peso ideal para você. 
 
