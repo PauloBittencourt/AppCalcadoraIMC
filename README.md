@@ -1,4 +1,18 @@
-Seja bem vindo ao meu Aplicativo de Calcular seu IMC (Índice de massa corporal).
+# Aplicativo para Conversor de Moedas
+
+## Introdução
+
+Novo aplicativo feito em Flutter
+
+Seja bem vindo ao meu Aplicativo para Calcular seu Indice de Massa Corporal. 
+
+Calculos feitos com base geral em sua altura e peso, para assim achar o peso ideal para você. 
+
+
 Feito totalmente no Framework Flutter com base na linguagem Dart.
-Para rodar minha aplicação é preciso da IDE Android Studio para leitura de codigo e emular dispositivo Android, ter instalado Flutter e Dart em seu computador.
-Email para contato : pbittencourtjr@gmail.com
+
+## Pré Requisitos
+
+- [Android Studio](https://developer.android.com/studio)
+- [Flutter](https://flutter.dev/docs/get-started/install)
+
