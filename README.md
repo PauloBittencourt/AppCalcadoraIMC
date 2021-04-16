@@ -2,9 +2,9 @@
 
 ## Introdução
 
-Um exemplo de uma aplicação para calular seu Indice de Massa Corporal. 
+Um exemplo de uma aplicação para calcular seu Índice de Massa Corporal.
 
-Calculos feitos com base geral em sua altura e peso, para achar seu peso ideal. 
+Cálculos feitos com base geral em sua altura e peso, para achar seu peso ideal.
 
 Feito totalmente no Framework Flutter com base na linguagem Dart.
 
